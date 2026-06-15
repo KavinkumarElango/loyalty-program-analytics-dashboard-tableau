@@ -96,7 +96,8 @@ Provides detailed provincial performance metrics including:
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot] <img width="1356" height="762" alt="Screenshot 2026-06-11 145106" src="https://github.com/user-attachments/assets/d391ef7a-408d-44b6-a297-8eec59b0f3f3" />
+
 
 ---
 
